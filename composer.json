@@ -1,5 +1,5 @@
 {
-    "name": "swoft/crontab",
+    "name": "swoft-fork/crontab",
     "type": "library",
     "version": "v2.0.11",
     "keywords": [
@@ -11,9 +11,9 @@
     "description": "Crontab component for swoft",
     "license": "Apache-2.0",
     "require": {
-        "php": ">7.1",
-        "swoft/framework": "~2.0.0",
-        "swoft/process": "~2.0.0"
+        "php": ">8.0",
+        "swoft-fork/framework": "~2.0.0",
+        "swoft-fork/process": "~2.0.0"
     },
     "autoload": {
         "classmap": [
