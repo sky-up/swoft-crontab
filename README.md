@@ -12,7 +12,7 @@ Swoft Crontab Component
 - composer command
 
 ```bash
-composer require swoft/crontab
+composer require swoft-fork/crontab
 ```
 
 ## Resources
