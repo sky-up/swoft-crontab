@@ -1,7 +1,7 @@
 {
     "name": "swoft-fork/crontab",
     "type": "library",
-    "version": "v2.0.11",
+    "version": "v2.1.0",
     "keywords": [
         "php",
         "swoole",
@@ -12,8 +12,8 @@
     "license": "Apache-2.0",
     "require": {
         "php": ">8.0",
-        "swoft-fork/framework": "~2.0.0",
-        "swoft-fork/process": "~2.0.0"
+        "swoft-fork/framework": "~2.1.0",
+        "swoft-fork/process": "~2.1.0"
     },
     "autoload": {
         "classmap": [
